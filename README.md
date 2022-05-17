@@ -9,6 +9,9 @@ The object modeled, using modern OpenGL, is a furniture chair designed by the ar
 The chair's supporting part is the diagonal wood plane leading to the front of the central seating plane. It's so functional and simplistic. The chair's uniqueness is that it's perfectly lightweight and requires a minimum amount of space for the store. The Zig-Zag chair is one of the most important chairs to exist and led the way for many others of this kind. The chair really concentrated on a functional design style that revolved around standardization, inexpensive production methods, and material.
 
 
+<img width="1500" alt="CS330-M7-1_Screenshot" src="https://user-images.githubusercontent.com/73068564/168834144-fc735dfe-653d-4fd8-bdcc-e20a6819b1c5.png">
+
+
 ## USER CAN NAVIGATE
 
 Through the mouse and keyboard as input devices, the user can navigate the Zig-Zag Chair 3D by controlling a virtual camera. The application has two projections, perspective and orthographic displays of the 3D chair so that the user can change the viewport display from 2D to 3D and vice versa using the tap of the keyboard keys "p" and "o" respectively. With the perspective projection active, the user can orbit the chair by clicking the mouse left button, pressing the ALT key, and moving the mouse in a horizontal and vertical orientation.
